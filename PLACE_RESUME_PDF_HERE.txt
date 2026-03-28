@@ -1,0 +1,12 @@
+RESUME PDF PLACEMENT
+====================
+
+To enable the download button, place your resume PDF here:
+
+  portfolio/public/resume.pdf
+
+The file will be served at /resume.pdf and the download button
+will save it as "JFrancis_Fabia_Resume.pdf".
+
+The modal viewer works independently — it shows your resume
+content regardless of whether the PDF file exists.
